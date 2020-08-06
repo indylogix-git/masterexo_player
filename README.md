@@ -5,8 +5,6 @@
 # MasterExoPlayer for Recyclerview (build with kotlin) 
 ####  #3 Line code for playing video inside RecyclerView
 
-[![N|Solid](https://img.shields.io/badge/Android%20Arsenal-Simpler%20Recycler%20View%20Adapter-brightgreen.svg)](https://android-arsenal.com/details/1/5354)
-
 #### MasterExoPlayer is lightweight utility for helping Play Video inside RecyclerView.
 
 # Features
@@ -139,31 +137,6 @@ binding.masterExoPlayer.listener = object : ExoPlayerHelper.Listener {
     }
 }
 ``` 
-
-### Special Thanks to
-###### Exo Player by Google [(<u><i>link</i></u>)](https://github.com/google/ExoPlayer)
-###### Simple Adapter for RecyclerView [(<u><i>link</i></u>)](https://github.com/pankaj89/SimpleAdapter)
-###### Coil Image Loading library for Kotlin [(<u><i>link</i></u>)](https://github.com/coil-kt/coil)
-
-### My Other Libraries
-###### Runtime Permission Helper [(<u><i>link</i></u>)](https://github.com/google/ExoPlayer)
-###### Simple Adapter for RecyclerView [(<u><i>link</i></u>)](https://github.com/pankaj89/PermissionHelper)
-###### LocationHelper [(<u><i>link</i></u>)](https://github.com/pankaj89/LocationHelper)
-###### ADB Input (Android Studio Plugin) [(<u><i>link</i></u>)](https://plugins.jetbrains.com/plugin/13758-adb-input/versions)
-### License
-```
-Copyright 2017 Pankaj Sharma
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+If you want to outsource your Flutter project, email us on info@indylogix.com
 ```
 # masterexo_player
